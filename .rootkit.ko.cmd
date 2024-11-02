@@ -1,1 +1,0 @@
-cmd_/home/vagrant/rootkit/rootkit.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -z noexecstack   --build-id  -T ./scripts/module-common.lds -o /home/vagrant/rootkit/rootkit.ko /home/vagrant/rootkit/rootkit.o /home/vagrant/rootkit/rootkit.mod.o;  true
