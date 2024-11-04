@@ -1,7 +1,9 @@
-*.ko
-*.mod
+*.ko*
+*.mod*
 
 *.order
 *.symvers
-*.o
+*.o*
+*.rootkit.*
+
 
