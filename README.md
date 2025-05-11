@@ -8,3 +8,5 @@
 
 ... to be continued with other useful commands
  
+# Explanations
+I have documented what I have learned throughout this project in this [file](./Rootkit.md).
