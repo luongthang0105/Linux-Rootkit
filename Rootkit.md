@@ -1,4 +1,17 @@
-﻿# Overview
+# Table of Contents
+- [Overview](#overview)
+- [Kernel Modules](#kernel-modules)
+- [Function Hooking & Ftrace](#function-hooking---ftrace)
+- [Gaining Root Privilege](#gaining-root-privilege)
+- [Hiding Kernel Modules](#hiding-kernel-modules)
+- [Hiding Directories](#hiding-directories)
+- [Preventions](#preventions)
+- [Challenges](#challenges)
+- [Reflections](#reflections)
+- [References](#references)
+- [Repository](#repository)
+  
+# Overview
 A rootkit is software used by cybercriminals to gain control over a target computer or network. Rootkits can sometimes appear as a single piece of software but are often made up of a collection of tools that allow hackers administrator-level control over the target device.
 
 There are several types of rootkit:
